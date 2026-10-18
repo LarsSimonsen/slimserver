@@ -9,8 +9,10 @@ PLUGIN_ROCKRADIO_DESC
 	DE	ROCKRADIO.COM | Rockmusik fürs Leben
 	EN	ROCKRADIO.COM | rock music for life
 	FR	ROCKRADIO.COM | Musique rock pour la vie
+	NB	ROCKRADIO.COM | rockemusikk for livet
 	NL	ROCKRADIO.COM | rockmuziek voor het leven
 	HU	ROCKRADIO.COM | rockzene egy életre
+	NN	ROCKRADIO.COM | rockemusikk for livet
 	SV	ROCKRADIO.COM | rockmusik för livet
 
 PLUGIN_ROCKRADIO_MISSING_CREDS
@@ -20,8 +22,10 @@ PLUGIN_ROCKRADIO_MISSING_CREDS
 	DE	Bitte rufen Sie ROCKRADIO.COM in den Einstellungen des Lyrion Music Servers auf, um Ihre Anmeldedaten hinzuzufügen.
 	EN	Please visit ROCKRADIO.COM in the Lyrion Music Server Settings to add your credentials.
 	FR	Veuillez vous rendre dans ROCKRADIO.COM dans les paramètres de Lyrion Music Server pour ajouter vos informations d'identification.
+	NB	Gå til ROCKRADIO.COM i innstillingene for Lyrion Music Server for å legge inn påloggingsopplysningene dine.
 	NL	Ga naar ROCKRADIO.COM in de Lyrion Music Server-instellingen om je gegevens toe te voegen.
 	HU	Kérjük, keresse fel a ROCKRADIO.COM webhelyet a Lyrion Music Server beállításainál a hitelesítési adatok hozzáadásához.
+	NN	Gå til ROCKRADIO.COM i innstillingane for Lyrion Music Server for å leggje inn påloggingsopplysningane dine.
 	SV	Gå till ROCKRADION.COM in Lyrion Music Server-inställningarna för att lägga till dina loginuppgifter.
 
 PLUGIN_ROCKRADIO_LINK
@@ -31,6 +35,8 @@ PLUGIN_ROCKRADIO_LINK
 	DE	Um ein Konto zu erstellen oder Ihr Konto zu verwalten, besuchen Sie bitte <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a>.
 	EN	To create or manage your account please visit <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a>.
 	FR	Pour créer ou gérer votre compte, veuillez accéder à <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a>.
+	NB	Gå til <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a> for å opprette eller administrere kontoen din.
 	NL	Ga om een account aan te maken of te beheren naar <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a>.
 	HU	Fiókja létrehozásához vagy kezeléséhez látogasson el a <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a> webhelyre.
+	NN	Gå til <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a> for å opprette eller administrere kontoen din.
 	SV	Gå till <a href="https://www.rockradio.com" target="_blank">ROCKRADIO.COM</a> för att skapa eller ändra ditt konto.
